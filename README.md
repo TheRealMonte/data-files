@@ -22,5 +22,5 @@ The only data not included here is the pixel color counts for each user. You an 
 FROM public.pixels
 JOIN users on users.user_id = pixels.user_id
 JOIN colors on colors.color_id = pixels.color_id
-WHERE username = <username>
+WHERE username = <username> AND time_deleted IS NULL
 GROUP BY color_name``
