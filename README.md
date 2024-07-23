@@ -1,6 +1,6 @@
 # Canvas 2024 SQL
 
-There was an error with the lemmy login auth on the Canvas site where after a certain point new logins started being logged as all lower case which created duplicates of 59 users and were treated as seperate users. I have merged all of the duplicate accounts and rebuild the database. 
+There was an error with the fediverse-auth on the Canvas site where after a certain point new logins started being logged as all lower case which created duplicates of 59 users and were treated as separate users. I have merged all of the duplicate accounts and rebuild the database. 
 
 The SQL file has 4 tables:
 * users (user_id, username, ranking, total_pixels_placed)
