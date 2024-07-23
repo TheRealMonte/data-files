@@ -17,6 +17,7 @@ The pixels table includes the username, x and y coordinates, color ID, the time 
 The top_cord table includes the x and y coordiantes for the coordinate each user placed the most pixels on along with the count.
 
 The only data not included here is the pixel color counts for each user. You an find the pixel color counts for a user by selecting:
+
 ``SELECT color_name, count(color_name)
 FROM public.pixels
 JOIN users on users.user_id = pixels.user_id
