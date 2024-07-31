@@ -24,3 +24,5 @@ JOIN users on users.user_id = pixels.user_id
 JOIN colors on colors.color_id = pixels.color_id
 WHERE username = <username> AND time_deleted IS NULL
 GROUP BY color_name``
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMonte)](https://github.com/TheRealMonte/github-readme-stats)
