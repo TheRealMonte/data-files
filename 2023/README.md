@@ -2,7 +2,7 @@
 ## canvas-2023-fixed-sql.sql
 the sql file has 4 tables:
 * colors (color_id, color_name, color_hex)
-* pixels (log_id, user_id, x_cord, y_cord, color_id, time_placed, user_action)
+* pixels (log_id, user_id, x_cord, y_cord, color_id, time_placed, id_mod_action, is_top, deleted_at)
 * top_cord (top_cord_id, user_id, x_cord, y_cord, count_placed)
 * users (user_id, username, ranking, total_pixels_placed)
 
