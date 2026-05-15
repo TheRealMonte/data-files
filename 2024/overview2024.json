@@ -287,14 +287,8 @@
         ]
     },
     {
-            "type": "image",
-            "title": "Pixel Heat Map",
-            "layout": "right",
-            "url": "https://raw.githubusercontent.com/TheRealMonte/images/main/2024/graphs/heatmap-with-legend.png"
-        },
-    {
         "type": "standard",
-        "layout": "left",
+        "layout": "right",
         "icon": "undo",
         "content": [
             "15724 pixels were undone by 1101 users (Up 5,009 pixels from 2023)"
@@ -302,7 +296,7 @@
     },
     {
         "type": "standard",
-        "layout": "right",
+        "layout": "left",
         "icon": "delete_forever",
         "content": [
             "13 users undid every pixel they placed. (Up 9 users from 2023)"
@@ -311,7 +305,7 @@
     {
         "type": "button-group",
         "title": "Generate Custom Canvas Image",
-        "layout": "left",
+        "layout": "right",
         "icon": "dashboard_customize",
         "buttons": [
             {

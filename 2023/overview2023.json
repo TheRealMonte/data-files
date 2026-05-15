@@ -274,14 +274,8 @@
             ]
         },
         {
-            "type": "graph",
-            "title": "Pixel Heat Map",
-            "layout": "right",
-            "url": ""
-        },
-        {
             "type": "standard",
-            "layout": "left",
+            "layout": "right",
             "icon": "undo",
             "content": [
                 "10715 pixels were undone by 1000 users"
@@ -289,7 +283,7 @@
         },
         {
             "type": "standard",
-            "layout": "right",
+            "layout": "left",
             "icon": "delete_forever",
             "content": [
                 "4 users undid every pixel they placed"
@@ -298,7 +292,7 @@
         {
             "type": "button-group",
             "title": "Generate Custom Canvas Image",
-            "layout": "left",
+            "layout": "right",
             "icon": "dashboard_customize",
             "buttons": [
                 {
