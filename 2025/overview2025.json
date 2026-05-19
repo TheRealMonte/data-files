@@ -349,13 +349,13 @@
             "icon": "dashboard_customize",
             "buttons": [
                 {
-                    "linkText": "Canvas at end of event",
+                    "linkText": "Final",
                     "classes": "medium-grey",
                     "page": "/draw",
                     "queryParams": {"sentFrom": "home", "year": 2025}
                 },
                 {
-                    "linkText": "Just the pixels that where undone",
+                    "linkText": "Undone Pixels Only",
                     "class": "blue",
                     "classes": "/draw",
                     "queryParams": {"sentFrom": "home", "year": 2025, "undo": "true"}
