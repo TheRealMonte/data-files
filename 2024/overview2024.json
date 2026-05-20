@@ -309,7 +309,7 @@
         "icon": "dashboard_customize",
         "buttons": [
             {
-                "linkText": "Canvas at end of event",
+                "linkText": "Final",
                 "classes": "aqua",
                 "page": "/draw",
                 "queryParams": {
@@ -318,7 +318,7 @@
                 }
             },
             {
-                "linkText": "Just the pixels that where undone",
+                "linkText": "Undone Pixels Only",
                 "classes": "maroon",
                 "page": "/draw",
                 "queryParams": {
