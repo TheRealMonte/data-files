@@ -306,8 +306,8 @@
                 },
                 {
                     "linkText": "Just the pixels that where undone",
-                    "class": "magenta",
-                    "classes": "/draw",
+                    "classes": "magenta",
+                    "page": "/draw",
                     "queryParams": {
                         "sentFrom": "home",
                         "year": 2023,
@@ -323,12 +323,6 @@
                         "year": 2023,
                         "reverse": "true"
                     }
-                },
-                {
-                    "linkText": "Something Else",
-                    "classes": "forest",
-                    "page": "/advanced-search",
-                    "queryParams": null
                 }
             ]
         }

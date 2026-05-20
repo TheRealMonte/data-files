@@ -319,8 +319,8 @@
             },
             {
                 "linkText": "Just the pixels that where undone",
-                "class": "maroon",
-                "classes": "/draw",
+                "classes": "maroon",
+                "page": "/draw",
                 "queryParams": {
                     "sentFrom": "home",
                     "year": 2024,
@@ -336,12 +336,6 @@
                     "year": 2024,
                     "reverse": "true"
                 }
-            },
-            {
-                "linkText": "Something Else",
-                "classes": "pink",
-                "page": "/advanced-search",
-                "queryParams": null
             }
         ]
     }

@@ -356,15 +356,9 @@
                 },
                 {
                     "linkText": "Undone Pixels Only",
-                    "class": "blue",
-                    "classes": "/draw",
-                    "queryParams": {"sentFrom": "home", "year": 2025, "undo": "true"}
-                },
-                {
-                    "linkText": "Pixels that made it from the \"megatemplate\" to the end of the event",
-                    "classes": "dark-green",
+                    "classes": "blue",
                     "page": "/draw",
-                    "queryParams": {"sentFrom": "home", "year": 2025, "special": "template"}
+                    "queryParams": {"sentFrom": "home", "year": 2025, "undo": "true"}
                 },
                 {
                     "linkText": "Reverse Order",
@@ -373,10 +367,10 @@
                     "queryParams": {"sentFrom": "home", "year": 2025, "reverse": "true"}
                 },
                 {
-                    "linkText": "Something Else",
-                    "classes": "brown",
-                    "page": "/advanced-search",
-                    "queryParams": null
+                    "linkText": "Pixels that made it from the \"megatemplate\" to the end of the event",
+                    "classes": "dark-green",
+                    "page": "/draw",
+                    "queryParams": {"sentFrom": "home", "year": 2025, "special": "template"}
                 }
             ]
         }
