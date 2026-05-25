@@ -228,116 +228,122 @@
                     "hex": "#FF7872"
                 }
             ]
-    },
-    {
-        "type": "standard",
-        "layout": "right",
-        "icon": "layers",
-        "content": [
-            "409046 are the final pixels on the canvas, making the canvas 81.8092% covered at the end of the event. (Up 27.6436% from 2023, but the canvas was twice as big in 2023)"
-        ]
-    },
-    {
-        "type": "graph",
-        "title": "Pixels placed per minute",
-        "layout": "left",
-        "url": "https://raw.githubusercontent.com/CanvasStats/data-files/refs/heads/main/2024/pixelsPerMinute2024.csv"
-    },
-    {
-        "type": "standard",
-        "layout": "right",
-        "icon": "kid_star",
-        "content": [
-            "1427 pixels were placed at (10,262) making it the coordinate with the most pixels"
-        ]
-    },
-    {
-        "type": "list",
-        "title": "The users that contributed to the top pixel were:",
-        "layout": "left",
-        "items": [
-            {
-                "contentKey": "142446@toast.ooo",
-                "contentValue": "1414 times"
-            },
-            {
-                "contentKey": "Kelo@lemmy.world",
-                "contentValue": "7 times"
-            },
-            {
-                "contentKey": "hemko@lemmy.dbzer0.com",
-                "contentValue": "2 times"
-            },
-            {
-                "contentKey": "ategon@programming.dev",
-                "contentValue": "1 time"
-            },
-            {
-                "contentKey": "EXtremeExploit@lemmy.world",
-                "contentValue": "1 time"
-            },
-            {
-                "contentKey": "grant@grants.cafe",
-                "contentValue": "1 time"
-            },
-            {
-                "contentKey": "hdggDalton@toast.ooo",
-                "contentValue": "1 time"
-            }
-        ]
-    },
-    {
-        "type": "standard",
-        "layout": "right",
-        "icon": "undo",
-        "content": [
-            "15724 pixels were undone by 1101 users (Up 5,009 pixels from 2023)"
-        ]
-    },
-    {
-        "type": "standard",
-        "layout": "left",
-        "icon": "delete_forever",
-        "content": [
-            "13 users undid every pixel they placed. (Up 9 users from 2023)"
-        ]
-    },
-    {
-        "type": "button-group",
-        "title": "Generate Custom Canvas Image",
-        "layout": "right",
-        "icon": "dashboard_customize",
-        "buttons": [
-            {
-                "linkText": "Final",
-                "classes": "aqua",
-                "page": "/draw",
-                "queryParams": {
-                    "sentFrom": "home",
-                    "year": 2024
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "layers",
+            "content": [
+                "409046 are the final pixels on the canvas, making the canvas 81.8092% covered at the end of the event. (Up 27.6436% from 2023, but the canvas was twice as big in 2023)"
+            ]
+        },
+        {
+            "type": "graph",
+            "title": "Pixels placed per minute",
+            "layout": "left",
+            "url": "https://raw.githubusercontent.com/CanvasStats/data-files/refs/heads/main/2024/pixelsPerMinute2024.csv"
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "kid_star",
+            "content": [
+                "1427 pixels were placed at (10,262) making it the coordinate with the most pixels"
+            ]
+        },
+        {
+            "type": "list",
+            "title": "The users that contributed to the top pixel were:",
+            "layout": "left",
+            "items": [
+                {
+                    "contentKey": "142446@toast.ooo",
+                    "contentValue": "1414 times"
+                },
+                {
+                    "contentKey": "Kelo@lemmy.world",
+                    "contentValue": "7 times"
+                },
+                {
+                    "contentKey": "hemko@lemmy.dbzer0.com",
+                    "contentValue": "2 times"
+                },
+                {
+                    "contentKey": "ategon@programming.dev",
+                    "contentValue": "1 time"
+                },
+                {
+                    "contentKey": "EXtremeExploit@lemmy.world",
+                    "contentValue": "1 time"
+                },
+                {
+                    "contentKey": "grant@grants.cafe",
+                    "contentValue": "1 time"
+                },
+                {
+                    "contentKey": "hdggDalton@toast.ooo",
+                    "contentValue": "1 time"
                 }
-            },
-            {
-                "linkText": "Undone Pixels Only",
-                "classes": "maroon",
-                "page": "/draw",
-                "queryParams": {
-                    "sentFrom": "home",
-                    "year": 2024,
-                    "undo": "true"
+            ]
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "undo",
+            "content": [
+                "15724 pixels were undone by 1101 users (Up 5,009 pixels from 2023)"
+            ]
+        },
+        {
+            "type": "standard",
+            "layout": "left",
+            "icon": "delete_forever",
+            "content": [
+                "13 users undid every pixel they placed. (Up 9 users from 2023)"
+            ]
+        },
+        {
+            "type": "button-group",
+            "title": "Generate Custom Canvas Image",
+            "layout": "right",
+            "icon": "dashboard_customize",
+            "buttons": [
+                {
+                    "linkText": "Final",
+                    "classes": "aqua",
+                    "page": "/draw",
+                    "queryParams": {
+                        "sentFrom": "home",
+                        "year": 2024
+                    }
+                },
+                {
+                    "linkText": "Undone Pixels Only",
+                    "classes": "maroon",
+                    "page": "/draw",
+                    "queryParams": {
+                        "sentFrom": "home",
+                        "year": 2024,
+                        "undo": "true"
+                    }
+                },
+                {
+                    "linkText": "Reverse Order",
+                    "classes": "mauve",
+                    "page": "/draw",
+                    "queryParams": {
+                        "sentFrom": "home",
+                        "year": 2024,
+                        "reverse": "true"
+                    }
                 }
-            },
-            {
-                "linkText": "Reverse Order",
-                "classes": "mauve",
-                "page": "/draw",
-                "queryParams": {
-                    "sentFrom": "home",
-                    "year": 2024,
-                    "reverse": "true"
-                }
-            }
-        ]
-    }
-]
+            ]
+        },
+        {
+            "type": "social",
+            "title": "Stay Connected",
+            "layout": "left",
+            "icon": "public"
+        }
+    ]
 }

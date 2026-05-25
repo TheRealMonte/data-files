@@ -373,6 +373,12 @@
                     "queryParams": {"sentFrom": "home", "year": 2025, "special": "template"}
                 }
             ]
+        },
+        {
+            "type": "social",
+            "title": "Stay Connected",
+            "layout": "left",
+            "icon": "public"
         }
     ]
 }
