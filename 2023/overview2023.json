@@ -235,12 +235,12 @@
             "layout": "right",
             "icon": "kid_star",
             "content": [
-                "170 pixels were placed at (175, 171) making it the coordinate with the most pixels"
+                "170 pixels were placed at (175, 171) making it the most contested pixel"
             ]
         },
         {
             "type": "list",
-            "title": "The users that contributed to the top pixel were:",
+            "title": "The users that contributed to the most contested pixel were:",
             "layout": "left",
             "items": [
                 {
