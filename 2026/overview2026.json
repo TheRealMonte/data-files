@@ -325,7 +325,8 @@
                     "page": "/draw",
                     "queryParams": {
                         "sentFrom": "home",
-                        "year": 2026
+                        "year": 2026,
+                        "topOnly": true
                     }
                 },
                 {
