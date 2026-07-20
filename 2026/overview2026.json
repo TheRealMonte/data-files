@@ -325,7 +325,7 @@
                     "page": "/draw",
                     "queryParams": {
                         "sentFrom": "home",
-                        "year": 2025
+                        "year": 2026
                     }
                 },
                 {
@@ -334,7 +334,7 @@
                     "page": "/draw",
                     "queryParams": {
                         "sentFrom": "home",
-                        "year": 2025,
+                        "year": 2026,
                         "undo": "true"
                     }
                 },
@@ -344,7 +344,7 @@
                     "page": "/draw",
                     "queryParams": {
                         "sentFrom": "home",
-                        "year": 2025,
+                        "year": 2026,
                         "reverse": "true"
                     }
                 }
