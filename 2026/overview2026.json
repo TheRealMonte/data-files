@@ -6,15 +6,15 @@
             "layout": "left",
             "icon": "person",
             "content": [
-                "589 users from 182 instances placed pixels on the canvas in 2026."
+                "530 users from 96 instances placed pixels on the canvas in 2026 (down 108 users from 2025). There were 156 returning users and 27 users that participated in all 4 events"
             ]
         },
         {
             "type": "standard",
             "layout": "right",
             "icon": "grid_view",
-            "content":[
-                "About 309k pixels placed on the canvas. (Exact number coming soon)."
+            "content": [
+                "309,205 pixels placed on the canvas. (Down 4,203 from 2025)"
             ]
         },
         {
@@ -24,211 +24,337 @@
             "data": [
                 {
                     "label": "Black",
-                    "count": 44548,
+                    "count": 59926,
                     "class": "black",
                     "hex": "#000000"
                 },
                 {
-                    "label": "Blue",
-                    "count": 10874,
-                    "class": "blue",
-                    "hex": "#0334BF"
-                },
-                {
                     "label": "White",
-                    "count": 28760,
+                    "count": 25331,
                     "class": "white",
                     "hex": "#ffffff"
                 },
                 {
-                    "label": "Red",
-                    "count": 8386,
-                    "class": "red",
-                    "hex": "#F30F0C"
-                },
-                {
                     "label": "Yellow",
-                    "count": 12095,
+                    "count": 15838,
                     "class": "yellow",
                     "hex": "#FDE111"
                 },
                 {
-                    "label": "Azure",
-                    "count": 10128,
-                    "class": "azure",
-                    "hex": "#149CFF"
+                    "label": "Blue",
+                    "count": 14535,
+                    "class": "blue",
+                    "hex": "#0334BF"
                 },
                 {
                     "label": "Aqua",
-                    "count": 10231,
+                    "count": 12414,
                     "class": "aqua",
                     "hex": "#8DF5FF"
                 },
                 {
-                    "label": "Light Grey",
-                    "count": 5374,
-                    "class": "light-grey",
-                    "hex": "#B9C3CF"
-                },
-                {
-                    "label": "Dark Green",
-                    "count": 6663,
-                    "class": "dark-green",
-                    "hex": "#18862F"
-                },
-                {
-                    "label": "Dark Grey",
-                    "count": 8147,
-                    "class": "dark-grey",
-                    "hex": "#1F1E26"
-                },
-                {
-                    "label": "Dark Purple",
-                    "count": 5772,
-                    "class": "dark-purple",
-                    "hex": "#531D8C"
-                },
-                {
-                    "label": "Deep Grey",
-                    "count": 7436,
-                    "class": "deep-grey",
-                    "hex": "#424651"
-                },
-                {
                     "label": "Navy",
-                    "count": 10844,
+                    "count": 12245,
                     "class": "navy",
                     "hex": "#242367"
                 },
                 {
+                    "label": "Azure",
+                    "count": 12012,
+                    "class": "azure",
+                    "hex": "#149CFF"
+                },
+                {
+                    "label": "Red",
+                    "count": 11679,
+                    "class": "red",
+                    "hex": "#F30F0C"
+                },
+                {
+                    "label": "Rust",
+                    "count": 9964,
+                    "class": "rust",
+                    "hex": "#F66E08"
+                },
+                {
+                    "label": "Dark Grey",
+                    "count": 9501,
+                    "class": "dark-grey",
+                    "hex": "#1F1E26"
+                },
+                {
+                    "label": "Deep Grey",
+                    "count": 9392,
+                    "class": "deep-grey",
+                    "hex": "#424651"
+                },
+                {
+                    "label": "Dark Green",
+                    "count": 8816,
+                    "class": "dark-green",
+                    "hex": "#18862F"
+                },
+                {
+                    "label": "Light Grey",
+                    "count": 8205,
+                    "class": "light-grey",
+                    "hex": "#B9C3CF"
+                },
+                {
+                    "label": "Chocolate",
+                    "count": 7023,
+                    "class": "chocolate",
+                    "hex": "#7C3F20"
+                },
+                {
+                    "label": "Orange",
+                    "count": 7004,
+                    "class": "orange",
+                    "hex": "#FF9F17"
+                },
+                {
+                    "label": "Dark Purple",
+                    "count": 6819,
+                    "class": "dark-purple",
+                    "hex": "#531D8C"
+                },
+                {
+                    "label": "Green",
+                    "count": 6804,
+                    "class": "green",
+                    "hex": "#61E021"
+                },
+                {
+                    "label": "Medium Grey",
+                    "count": 6656,
+                    "class": "medium-grey",
+                    "hex": "#777F8C"
+                },
+                {
+                    "label": "Mauve",
+                    "count": 5817,
+                    "class": "mauve",
+                    "hex": "#E973FF"
+                },
+                {
+                    "label": "Beige",
+                    "count": 5650,
+                    "class": "beige",
+                    "hex": "#FFD2B1"
+                },
+                {
+                    "label": "Pastel Yellow",
+                    "count": 5581,
+                    "class": "pastel-yellow",
+                    "hex": "#FFFFA5"
+                },
+                {
                     "label": "Pink",
-                    "count": 9608,
+                    "count": 4882,
                     "class": "pink",
                     "hex": "#FFA4D0"
                 },
                 {
                     "label": "Purple",
-                    "count": 3471,
+                    "count": 4381,
                     "class": "purple",
                     "hex": "#A630D2"
                 },
                 {
-                    "label": "Pastel Yellow",
-                    "count": 4694,
-                    "class": "pastel-yellow",
-                    "hex": "#FFFFA5"
-                },
-                {
                     "label": "Brown",
-                    "count": 3375,
+                    "count": 4260,
                     "class": "brown",
                     "hex": "#C06F37"
                 },
                 {
-                    "label": "Rose",
-                    "count": 3211,
-                    "class": "rose",
-                    "hex": "#99011A"
-                },
-                {
-                    "label": "Green",
-                    "count": 5394,
-                    "class": "green",
-                    "hex": "#61E021"
-                },
-                {
-                    "label": "Beige",
-                    "count": 4871,
-                    "class": "beige",
-                    "hex": "#FFD2B1"
-                },
-                {
-                    "label": "Dark Teal",
-                    "count": 2115,
-                    "class": "dark-teal",
-                    "hex": "#16777E"
-                },
-                {
-                    "label": "Chocolate",
-                    "count": 5914,
-                    "class": "chocolate",
-                    "hex": "#7C3F20"
-                },
-                {
-                    "label": "Rust",
-                    "count": 8234,
-                    "class": "rust",
-                    "hex": "#F66E08"
-                },
-                {
-                    "label": "Magenta",
-                    "count": 2339,
-                    "class": "magenta",
-                    "hex": "#F14FB4"
-                },
-                {
-                    "label": "Orange",
-                    "count": 5852,
-                    "class": "orange",
-                    "hex": "#FF9F17"
-                },
-                {
-                    "label": "Lime",
-                    "count": 1285,
-                    "class": "lime",
-                    "hex": "#B1FF37"
-                },
-                {
                     "label": "Forest",
-                    "count": 2649,
+                    "count": 3613,
                     "class": "forest",
                     "hex": "#054523"
                 },
                 {
-                    "label": "Light Teal",
-                    "count": 2619,
-                    "class": "light-teal",
-                    "hex": "#01BFA5"
+                    "label": "Rose",
+                    "count": 3610,
+                    "class": "rose",
+                    "hex": "#99011A"
                 },
                 {
                     "label": "Dark Chocolate",
-                    "count": 3029,
+                    "count": 3605,
                     "class": "dark-chocolate",
                     "hex": "#382215"
                 },
                 {
-                    "label": "Watermelon",
-                    "count": 2045,
-                    "class": "watermelon",
-                    "hex": "#FF7872"
-                },
-                {
                     "label": "Peach",
-                    "count": 3094,
+                    "count": 3514,
                     "class": "peach",
                     "hex": "#FEAD6C"
                 },
                 {
+                    "label": "Magenta",
+                    "count": 3274,
+                    "class": "magenta",
+                    "hex": "#F14FB4"
+                },
+                {
+                    "label": "Light Teal",
+                    "count": 3107,
+                    "class": "light-teal",
+                    "hex": "#01BFA5"
+                },
+                {
+                    "label": "Watermelon",
+                    "count": 2687,
+                    "class": "watermelon",
+                    "hex": "#FF7872"
+                },
+                {
+                    "label": "Dark Teal",
+                    "count": 2504,
+                    "class": "dark-teal",
+                    "hex": "#16777E"
+                },
+                {
                     "label": "Maroon",
-                    "count": 1894,
+                    "count": 2360,
                     "class": "maroon",
                     "hex": "#550022"
                 },
                 {
-                    "label": "Mauve",
-                    "count": 5049,
-                    "class": "mauve",
-                    "hex": "#E973FF"
+                    "label": "Lime",
+                    "count": 1994,
+                    "class": "lime",
+                    "hex": "#B1FF37"
                 }
             ]
         },
         {
             "type": "standard",
             "layout": "right",
-            "icon": "hourglass_top",
+            "icon": "layers",
             "content": [
-                "Full stats will be posted within a day or two. Please check back later."
+                "238067 are the final pixels on the canvas, making the canvas 95.2268% covered at the end of the event (up 5.0492% from 2025)"
             ]
+        },
+        {
+            "type": "graph",
+            "title": "Pixels placed per minute",
+            "layout": "left",
+            "url": "https://raw.githubusercontent.com/CanvasStats/data-files/refs/heads/main/2026/pixelsPerMinute2026.csv"
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "kid_star",
+            "content": [
+                "1270 pixels were placed at (40, 170) making it the most contested pixel"
+            ]
+        },
+        {
+            "type": "list",
+            "title": "The users that contributed to the most contested pixel were:",
+            "layout": "left",
+            "items": [
+                {
+                    "contentKey": "myusername@sopuli.xyz",
+                    "contentValue": "1240 times"
+                },
+                {
+                    "contentKey": "the_real_monte@sh.itjust.works",
+                    "contentValue": "12 times"
+                },
+                {
+                    "contentKey": "Kelo@lemmy.world",
+                    "contentValue": "5 times"
+                },
+                {
+                    "contentKey": "Vaporek@mas.to",
+                    "contentValue": "4 times"
+                },
+                {
+                    "contentKey": "Redjard@reddthat.com",
+                    "contentValue": "3 times"
+                },
+                {
+                    "contentKey": "DrDuskSaw@lemmy.world",
+                    "contentValue": "2 times"
+                },
+                {
+                    "contentKey": "Ategon@programming.dev",
+                    "contentValue": "1 times"
+                },
+                {
+                    "contentKey": "D@piefed.social",
+                    "contentValue": "1 times"
+                },
+                {
+                    "contentKey": "Ethanol@pawb.social",
+                    "contentValue": "1 times"
+                },
+                {
+                    "contentKey": "grant@grants.cafe",
+                    "contentValue": "1 times"
+                }
+            ]
+        },
+        {
+            "type": "standard",
+            "layout": "right",
+            "icon": "undo",
+            "content": [
+                "4202 pixels were undone by 312 users. (Down 767 pixels from 2025)"
+            ]
+        },
+        {
+            "type": "standard",
+            "layout": "left",
+            "icon": "delete_forever",
+            "content": [
+                "0 users undid every pixel they placed. (Same as last year)"
+            ]
+        },
+        {
+            "type": "button-group",
+            "title": "Generate Custom Canvas Image",
+            "layout": "right",
+            "icon": "dashboard_customize",
+            "buttons": [
+                {
+                    "linkText": "Final",
+                    "classes": "forest",
+                    "page": "/draw",
+                    "queryParams": {
+                        "sentFrom": "home",
+                        "year": 2025
+                    }
+                },
+                {
+                    "linkText": "Undone Pixels Only",
+                    "classes": "magenta",
+                    "page": "/draw",
+                    "queryParams": {
+                        "sentFrom": "home",
+                        "year": 2025,
+                        "undo": "true"
+                    }
+                },
+                {
+                    "linkText": "Reverse Order",
+                    "classes": "dark-purple",
+                    "page": "/draw",
+                    "queryParams": {
+                        "sentFrom": "home",
+                        "year": 2025,
+                        "reverse": "true"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "social",
+            "title": "Stay Connected",
+            "layout": "left",
+            "icon": "public"
         }
     ]
 }
